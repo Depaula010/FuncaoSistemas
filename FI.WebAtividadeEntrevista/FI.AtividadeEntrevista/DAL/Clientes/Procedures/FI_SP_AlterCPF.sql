@@ -1,0 +1,3 @@
+﻿ALTER TABLE CLIENTES 
+ADD CPF varchar(11)
+
